@@ -1,5 +1,5 @@
 Hello Iam Prabhanjan Savanur
-Iam a student at BMS Institute of Technology Yalahanka Banglore
+Iam a student at BMS Institute of Technology Yelahanka Banglore
 Doing my Engineering course in Information Science field
 Iam a Full-stack developer with a love for open-source projects. Python enthusiast and web development aficionado.
 Current Location: Yalahanka Banglore
